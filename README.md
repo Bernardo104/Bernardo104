@@ -28,7 +28,7 @@ Estou focando meus estudos nas seguintes áreas e tecnologias:
 *   **LinkedIn:** [Link para seu perfil]
 *   [![E-mail](https://img.shields.io/badge/E--mail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
 * [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/554888068236?text=Olá,%20vi%20seu%20perfil%20no%20GitHub!)
-*  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ferreirasx011) ---> * **Instagram:** [@ferreirasx011](https://instagram.com/ferreirasx011)
+*  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ferreirasx011) 
 
 ---
 
